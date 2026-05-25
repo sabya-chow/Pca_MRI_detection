@@ -1,0 +1,3 @@
+# Pca_MRI_detection
+This is a project to detect Predict the PIRADS value based on MRI scans
+Data used in the preparation of this article were obtained from the NYU fastMRI Initiative database (fastmri.med.nyu.edu) [Knoll et al., Radiology: Artificial Intelligence, 2020 Jan 29; 2(1): e190007. doi: 10.1148/ryai.2020190007. (https://pubs.rsna.org/doi/10.1148/ryai.2020190007), and the arXiv paper: https://arxiv.org/abs/1811.08839]. NYU fastMRI investigators provided data but did not participate in analysis or writing of this report. A listing of NYU fastMRI investigators can be found at fastmri.med.nyu.edu. The primary goal of fastMRI is to test whether machine learning can aid in the reconstruction of medical images.
